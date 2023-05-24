@@ -1,6 +1,6 @@
 # Awesome Inc U Web Dev Bootcamp Week 1 👨‍💻 #
 ![Image of a guy using 3 computers with coding software running on them](img/awesomeincblogimage1.jpeg)
-## Git Her Done 🤙 ## 
+## Git-R-Done 🤙 ## 
 
 Learning this week at the remote bootcamp with Awesome Inc U has been **great**! This week we all of course met for the first time, talked about the values and culture of Awesome Inc, setup our work environments and also began to code with some of the fundamental coding language like HTML5 and CSS3. The week has already gone by so fast as we are about halfway through as I am writing this and I already feel like so much information has been shared, which is a good thing. This is what I expected going into the bootcamp from my own personal research with other bootcamp reviews so I'm not surprised. It has been said that we are essentially drinking from a firehose 🌊🌊🌊. Of course, we want to absorb as much information as we can as the bootcamp goes on. Being a remote bootcamp is great as well because it allows me to work in the comfort of my own home, be close to my wife and our beautiful daughter, and get Ale8 out of the fridge whenever I crave one. The one downside is missing human interaction. Actually getting to interact and be around each other as we learn together is hard to give up, but we have all done well comunicating through the Slack channel and my instructors and classmates all seem to be very vibrant and encouraging people. 💯💯💪
 
