@@ -6,6 +6,8 @@ represents the structure of the webpage or application, CSS is the design of the
 of the app. When all three languages are combined together, it brings the application together as a whole to hopefully create a pleasing
 experience for the end user. 💪
 
+![A few books covering the subject of CSS and JavaScript](img/kobu-agency-ipARHaxETRk-unsplash.jpg)
+
 HTML and CSS, while *a lot* to take in, are definitely easier to learn than JavaScript. But a weapon 🔫 that was added to our arsenal this week
 to assist with the JavaScript portion of web apps is ***pseudocoding***.Pseudocoding essentially is taking the idea of a web app and 
 translating it into plain english *beforehand* to make the coding portion much easier. If the developer takes time to think all the way through
