@@ -22,6 +22,8 @@ it's a remote bootcamp, have been great at collaborating 👨‍💻🧑‍💻�
 helped a lot of the students start on the right footing with JavaScript and complete our final project for week 2 which was an alarm clock. 
 Demo day was great, because while we all worked together on this project, we all arrived at the answer in different methods. 
 
+![A Laptop Displaying Some Code On It](img/james-harrison-vpOeXr5wmR4-unsplash.jpg)
+
 I must admit though,being alone after learning sessions and reading documentation/watching videos is hard to do sometimes. There are so many distractions learning at home.
 I can hear my wife and daughter playing and having fun upstairs while I want to rip my hair out over a missing semicolon. I want to go upstairs to join them.
 My computer I code on is the *same* computer I use to play games on 🎮. It can be tempting at times to pick up that controller when JavaScript
