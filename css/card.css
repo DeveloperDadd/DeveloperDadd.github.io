@@ -5,12 +5,18 @@
     font-family: 'Poppins', sans-serif;
 }
 
-
-
 h1 {
     font-weight: 700;
 }
 
 .contact-card-wrapper {
-    background: url('https://images.unsplash.com/photo-1582738411706-bfc8e691d1c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8OXx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80') no-repeat center center fixed;   
+    background: url('https://images.pexels.com/photos/2341290/pexels-photo-2341290.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') no-repeat center center fixed;   
+    height: 100%;
+}
+
+hr {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid black 4px;
 }
