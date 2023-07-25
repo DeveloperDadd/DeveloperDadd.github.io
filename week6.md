@@ -1,3 +1,5 @@
+# Awesome Inc Web Deb Bootcamp Week 6 👨‍💻
+
 As a full-time coding bootcamp student, I've been immersed in the complex world of JavaScript, discovering various frameworks and libraries that promise to revolutionize web development. 
 While some developers find these tools easy to use, others may find them challenging due to their learning curves and diverse functionalities. 
 In this blog post, I will explore the complexities and advantages of JavaScript frameworks and libraries, discuss the ones that interest me, and introduce an emerging JavaScript tool that excites me for my final project.
@@ -7,7 +9,7 @@ In this blog post, I will explore the complexities and advantages of JavaScript 
 JavaScript frameworks and libraries are essential tools for developers to simplify and expedite web development. They offer pre-built solutions and functionalities that enable us to create dynamic and interactive 
 websites without getting worn out by repetitive coding. However, the ease of use can vary based on individual experience and familiarity with JavaScript.
 
-1.1 The Case for Ease of Use 👨‍💻
+1.1 The Case for Ease of Use
 
 For some developers, JavaScript frameworks like React can be relatively straightforward to work with. These frameworks come with extensive documentation, active communities, and a wealth of online
 resources. They provide a structured approach to building web applications, making it easier for beginners to get started and for experienced developers to streamline their workflow.
