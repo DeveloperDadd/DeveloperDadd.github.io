@@ -1,4 +1,4 @@
-# Awesome Inc Web Deb Bootcamp Week 6 👨‍💻
+# Awesome Inc Web Dev Bootcamp Week 6 👨‍💻
 
 As a full-time coding bootcamp student, I've been immersed in the complex world of JavaScript, discovering various frameworks and libraries that promise to revolutionize web development. 
 While some developers find these tools easy to use, others may find them challenging due to their learning curves and diverse functionalities. 
