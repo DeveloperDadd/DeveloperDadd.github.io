@@ -21,7 +21,7 @@ Python and Django provided relief with clean syntax and conventions. Transitioni
 ## REST API
 Learning REST API implementation in Django was like learning a new language. Serializers, views, and routing complexities added to the challenge.
 
-In retrospect, the past 8 weeks were a roller coaster. Initial enthusiasm waned in the face of intricate challenges. Debugging, syntax struggles, and data flow complexities tested my patience. 
+In retrospect, the past 8 weeks have been a roller coaster.
 Yet, small victories like functional web pages and API responses kept me going.
 
-The journey ahead holds hope for clearer understanding. The struggles are stepping stones to mastery. Challenges might have dampened my initial enthusiasm, but they won't deter my determination to persist and grow.
+The struggles are stepping stones to mastery. Fail fast, fail often, and fail forward 💪
